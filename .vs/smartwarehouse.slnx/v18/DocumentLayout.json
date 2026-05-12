@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\industrygroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\industrygroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\storageagreementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\storageagreementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\facilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\facilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\ifacilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\ifacilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\movementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\movementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\industrygrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\industrygrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\storageagreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\storageagreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\industrygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\industrygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|c:\\users\\hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5F4D01F-0A90-C55D-A950-9FAD42FFDBA9}|smartwarehouse\\smartwarehouse.csproj|solutionrelative:smartwarehouse\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndustryGroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\IndustryGroupController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\IndustryGroupController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\IndustryGroupController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\IndustryGroupController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:05:49.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManufacturerController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\ManufacturerController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\ManufacturerController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\ManufacturerController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\ManufacturerController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:05:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SectionController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\SectionController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\SectionController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\SectionController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\SectionController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:05:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorageAgreementController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\StorageAgreementController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\StorageAgreementController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\StorageAgreementController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\StorageAgreementController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:05:13.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:02:41.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T00:57:27.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovementController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\MovementController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\MovementController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\MovementController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\MovementController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:04:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:04:14.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacilityController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\FacilityController.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Controllers\\FacilityController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Controllers\\FacilityController.cs",
+              "RelativeToolTip": "smartwarehouse\\Controllers\\FacilityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:03:49.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFacilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\IFacilityRepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\IFacilityRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\IFacilityRepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\IFacilityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:01:51.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\FacilityRepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\FacilityRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\FacilityRepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\FacilityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:29:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movementrepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Movementrepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\Movementrepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Movementrepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\Movementrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:00:21.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Storagerepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Storagerepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\Storagerepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Storagerepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\Storagerepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:59:24.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employeerepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Employeerepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\Employeerepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Employeerepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\Employeerepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:28:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\appsettings.json",
+              "RelativeDocumentMoniker": "smartwarehouse\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\appsettings.json",
+              "RelativeToolTip": "smartwarehouse\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T06:59:21.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Industrygrouprepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Industrygrouprepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\Industrygrouprepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Industrygrouprepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\Industrygrouprepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:58:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Manufacturerrepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Manufacturerrepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\Manufacturerrepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Manufacturerrepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\Manufacturerrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:58:23.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sectionrepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Sectionrepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\Sectionrepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Sectionrepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\Sectionrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:57:52.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Productrepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Productrepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\Productrepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Productrepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\Productrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:56:01.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Clientrepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Clientrepository.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Repositories\\Clientrepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Repositories\\Clientrepository.cs",
+              "RelativeToolTip": "smartwarehouse\\Repositories\\Clientrepository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwvwIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:21:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Data\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\Data\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Data\\DatabaseConnection.cs",
+              "RelativeToolTip": "smartwarehouse\\Data\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:42:47.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "facility.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\facility.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\facility.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\facility.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\facility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:17:23.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Employee.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:17:02.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Client.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\Client.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Client.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:15:44.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Movement.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\Movement.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Movement.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:17:58.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StorageAgreement.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\StorageAgreement.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\StorageAgreement.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\StorageAgreement.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\StorageAgreement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:24:52.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Product.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Product.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:18:10.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\Manufacturer.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:17:50.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IndustryGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\IndustryGroup.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\IndustryGroup.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\IndustryGroup.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\IndustryGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:17:32.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "section.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\section.cs",
+              "RelativeDocumentMoniker": "smartwarehouse\\models\\section.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\models\\section.cs",
+              "RelativeToolTip": "smartwarehouse\\models\\section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:22:11.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "smartwarehouse\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\database_implemntion\\smartwarehouse\\smartwarehouse\\Properties\\launchSettings.json",
+              "RelativeToolTip": "smartwarehouse\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T00:34:40.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
